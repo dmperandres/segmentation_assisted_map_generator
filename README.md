@@ -1,5 +1,5 @@
 # segmentation_assisted_map_generator
-![example image](view1_Pb_SBMEA_RGB__VN0_PN0_4_grid.png "A map produced by SAMG")
+![example image](view1_Pb_SBMEA_RGB___VN0_PN0_4_grid.png "A map produced by SAMG")
 
 ## General
 This repository contains the source code for the "Segmentation-Assited Map Generator" program that we developed as part of our research work. We have sent a paper to a journal.
